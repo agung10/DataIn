@@ -1,0 +1,10 @@
+#sec_body .bg-holder {
+    background-image: url(../landing/assets/img/illustrations/hero-bg.png);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.card.card-purple {
+    padding: 20px;
+    background: linear-gradient(90deg, #4365cd, #435ebe);
+}
