@@ -1,2 +1,5 @@
 Jika ingin memulai dari awal:
     php artisan migrate:fresh --seed
+
+name: admin
+pw  : admin123
